@@ -1,0 +1,14 @@
+.nav-container{
+    width:auto;
+    height:50px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px #bac3c3;
+}
+li{
+    margin-left:75px;
+}
+.search-box{
+    border-radius: 16px;
+    background-color: #FBFBFB;
+}

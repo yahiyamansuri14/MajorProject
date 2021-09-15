@@ -1,0 +1,14 @@
+.header-container{
+    height:75px;
+    width:auto;
+}
+.project-title{
+    color:#FCFDFF;
+    font-weight: bolder;
+    font-size:30px;
+    align-self: center;
+}
+.vl{
+    border-left:1px solid black;
+    height:70vh;
+}

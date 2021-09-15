@@ -1,0 +1,17 @@
+.signup-text{
+    text-align:left;
+    font-size:25px;
+    color:black;
+    font-weight: 500;
+}
+.signup-container{
+    width:500px;
+    height:auto;
+}
+.date-picker{
+    height:100px;
+    width:100px;
+}
+.radio-button{
+    width:20px;
+}

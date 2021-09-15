@@ -1,0 +1,23 @@
+
+.login-container{
+    height:500px;
+    width:400px;
+    margin-top:20vh;
+}
+input{
+    width:200px;
+    height:100px;
+    font-weight:500;
+    font-size:25px;
+}
+.login-text{
+    text-align:left;
+    font-size:25px;
+    color:black;
+    font-weight: 500;
+}
+.login-btn-text{
+    text-align: center;
+    font-size:25px;
+    font-weight:500;
+}
